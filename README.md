@@ -6,6 +6,8 @@
 - Link: https://github.com/pavel-nikitin-2022
 - VK: @flesher2
 
+\*[resume ru](https://github.com/pavel-nikitin-2022/pavel-nikitin-2022/blob/main/Resume.pdf)
+
 ---
 
 ### About me
